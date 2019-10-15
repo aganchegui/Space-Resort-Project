@@ -1,2 +1,2 @@
-# Space-Resort-Project
-Project 1
+Basic Projects 
+Project 1: Space Resort 
